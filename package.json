@@ -1,0 +1,9 @@
+{
+  "name": "FirefoxMirror",
+  "title": "FirefoxMirror",
+  "id": "jid1-R9Aj89An5arTGw",
+  "description": "Add on that mirrors your firefox tab in a browser on another machine, making it remote controllable.",
+  "author": "Michel Vollebregt",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
