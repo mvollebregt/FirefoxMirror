@@ -3,9 +3,4 @@
  */
 
 var html = document.documentElement.innerHTML;
-alert(document.documentElement.innerHTML); 
-
-// document.defaultView.postMessage("Message from content script", "http://www.google.com");
-
-
-// document.body.style.border = "5px solid red";
+self.port.emit('refresh', html);
